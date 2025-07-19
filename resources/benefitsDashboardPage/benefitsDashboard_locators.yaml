@@ -1,0 +1,12 @@
+benefitsDasboardLocators:
+  benefits_dashboard_title: xpath=/html/body/header/nav/div/a
+  add_employee_button: xpath=//*[@id="add"]
+  add_employee_modal: xpath=//*[@id="employeeModal"]
+  last_name_input: xpath=//*[@id="lastName"]  
+  first_name_input: xpath=//*[@id="firstName"] 
+  dependent_input: xpath=//*[@id="dependants"]
+  add_button: xpath=//*[@id="addEmployee"]
+  employee_table: xpath=//*[@id="employeesTable"]/tbody
+  delete_employee_button: xpath=//*[@id="deleteEmployee"]
+  delete_employee_modal: xpath=//*[@id="deleteModal"]
+  update_employee_button: xpath=//*[@id="updateEmployee"]
